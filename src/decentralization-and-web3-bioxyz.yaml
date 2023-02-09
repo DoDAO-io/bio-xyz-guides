@@ -1,7 +1,7 @@
 categories:
   - general
 content: Decentralization refers to the process of transferring and maint
-created: '2023-02-09T18:39:00.349Z'
+created: '2023-02-09T18:46:21.580Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -45,5 +45,6 @@ steps:
         type: MultipleChoice
         uuid: f04b6ddd-d3b0-428b-b751-a41b33feffb1
     uuid: 68493fb8-59e0-481d-be87-dad9b8b98b63
-thumbnail: ipfs://QmUrjPNUC3vDWzX8khpUjWQwfYPqyvPj2oFvZo8Aaf9oAC
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz/decentralizaton_and_web3.png
 uuid: decentralization-and-web3-bioxyz
