@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization refers to the process of transferring and maint",
-  "created": "2023-02-09T18:36:16.673Z",
+  "created": "2023-02-09T18:37:35.712Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -18,7 +18,7 @@
       "name": "Introduction",
       "stepItems": [
         {
-          "label": "Full Name",
+          "label": "Your Name (Optional)",
           "required": false,
           "type": "PublicShortInput",
           "uuid": "94090130-d774-45a7-be47-fde1b00c02b2"
@@ -69,5 +69,5 @@
     }
   ],
   "thumbnail": "ipfs://Qmdra9btW8STNo5ssMVidEYeUp8kLq8KBiF2Qo3WkLW7uL",
-  "uuid": "ad04e28e-504b-443f-bb09-59df5f6b23eb"
+  "uuid": "decentralization-and-web3-bioxyz"
 }
