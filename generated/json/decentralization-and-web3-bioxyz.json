@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-10T20:16:34.370Z",
+  "created": "2023-02-10T20:45:04.993Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -14,7 +14,7 @@
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "Welcome to the bio.xyz BioDAO bible, a working lexicon and knowledge base for all of the relevant terms and concepts that you will need to understand to successfully build in decentralized science.",
+      "content": "Welcome to the bio.xyz BioDAO bible, a working lexicon and knowledge base for all of the relevant terms and concepts that you will need to understand to successfully build in decentralized science.![](https://3673419478-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8ODWngazoi1LKETTEcVa%2Fuploads%2FWnw2h369y1UZqTO6yNrj%2FBioDAO%20Bible%20book%20Cover.png?alt=media&token=b22bd7b2-58d5-4793-b970-6735f0db6837)\n",
       "name": "Introduction",
       "stepItems": [
         {
@@ -51,47 +51,6 @@
         }
       ],
       "uuid": "1652ae5b-1bd7-4381-984c-a6d6cfc685f9"
-    },
-    {
-      "content": "",
-      "name": "Introduction Evaluation",
-      "stepItems": [
-        {
-          "label": "Full Name",
-          "required": false,
-          "type": "PublicShortInput",
-          "uuid": "cdb46f95-0964-4351-8118-d058adae227a"
-        },
-        {
-          "answerKeys": [
-            "dog_or_cat",
-            "only_dog",
-            "only_cat"
-          ],
-          "choices": [
-            {
-              "content": "Dog And Cat",
-              "key": "dog_and_cat"
-            },
-            {
-              "content": "Dog Or Cat",
-              "key": "dog_or_cat"
-            },
-            {
-              "content": "Only Dog",
-              "key": "only_dog"
-            },
-            {
-              "content": "Only Cat",
-              "key": "only_cat"
-            }
-          ],
-          "content": "Dog or a Cat, Do or a Cat, Dog or a Cat",
-          "type": "MultipleChoice",
-          "uuid": "f04b6ddd-d3b0-428b-b751-a41b33feffb1"
-        }
-      ],
-      "uuid": "68493fb8-59e0-481d-be87-dad9b8b98b63"
     },
     {
       "content": "",
