@@ -1,7 +1,7 @@
 categories:
   - general
 content: Decentralization, Benefits & Drawbacks of Decentralization,
-created: '2023-02-09T18:48:26.856Z'
+created: '2023-02-10T15:05:12.160Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -46,5 +46,5 @@ steps:
         uuid: f04b6ddd-d3b0-428b-b751-a41b33feffb1
     uuid: 68493fb8-59e0-481d-be87-dad9b8b98b63
 thumbnail: >-
-  https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz/decentralizaton_and_web3.png
+  https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Decentralization_and_Web3/decentralizaton_and_web3.png
 uuid: decentralization-and-web3-bioxyz
