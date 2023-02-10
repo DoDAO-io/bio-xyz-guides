@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-10T21:03:49.633Z",
+  "created": "2023-02-10T21:05:04.802Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -51,6 +51,12 @@
         }
       ],
       "uuid": "e49dea5b-20d6-4b57-930f-edbd35587409"
+    },
+    {
+      "content": "Decentralization refers to the process of transferring and maintaining control and decision-making from a centralized entity to a distributed network. Decentralized networks strive to reduce the level of trust that participants must place in one another, and deter their ability to exert authority or control over one another in ways that degrade the functionality of the network in favor of special interests. Decentralized networks are designed to be more resistant to corruption and interference, and to provide better service overall. However, decentralization has some tradeoffs, such as lower transaction throughput due to less personalized decision structures. Ultimately, the decision of whether or not to decentralize a network depends on whether the tradeoffs are worth the improved stability and service levels that decentralization can provide.",
+      "name": "Decentralization",
+      "stepItems": [],
+      "uuid": "c3c7a4cd-c959-40d6-a3c6-d56c4f0a5e33"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Decentralization_and_Web3/decentralizaton_and_web3.png",
