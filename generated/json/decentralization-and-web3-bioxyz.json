@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-10T20:55:26.437Z",
+  "created": "2023-02-10T20:58:40.542Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -21,8 +21,35 @@
     },
     {
       "content": "",
-      "name": "Step 3",
-      "stepItems": [],
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "3c54344c"
+          ],
+          "choices": [
+            {
+              "content": "A. A working lexicon and knowledge base",
+              "key": "3c54344c"
+            },
+            {
+              "content": "B. A decentralized science platform",
+              "key": "8a3b9d78"
+            },
+            {
+              "content": "C. A blockchain-based platform",
+              "key": "cd14d3e5"
+            },
+            {
+              "content": "D. A decentralized network",
+              "key": "47bc0ded"
+            }
+          ],
+          "content": "Q: What is the bio.xyz BioDAO Bible?",
+          "type": "MultipleChoice",
+          "uuid": "ee14334e-2abf-47ae-8900-f5a83f2dfcf5"
+        }
+      ],
       "uuid": "e49dea5b-20d6-4b57-930f-edbd35587409"
     }
   ],
