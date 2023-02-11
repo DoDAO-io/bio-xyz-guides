@@ -1,6 +1,6 @@
 categories: []
 content: 'The Decentralized Science (DeSci) movement aims to use the Web3 '
-created: '2023-02-11T20:26:19.607Z'
+created: '2023-02-11T20:28:00.438Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -28,7 +28,7 @@ steps:
 
 
 
-      **Funding **
+      **Funding**
 
 
       The current standard model for funding science is that individuals or
@@ -53,6 +53,7 @@ steps:
       broadly. Retroactive public goods funding, quadratic funding, DAO
       governance and tokenized incentive structures are some of the Web3 tools
       that could revolutionize science funding.
+
 
       **Publishing**
 
@@ -79,6 +80,7 @@ steps:
       embedded legitimacy mechanism and incentive model. The tools for building
       such a system exist in Web3.
 
+
       **Data Storage**
 
       Scientific data can be made vastly more accessible using Web3 patterns,
@@ -104,7 +106,8 @@ steps:
       dClimate, for example, provides universal access to climate and weather
       data, including from weather stations and predictive climate models.
 
-      IP Ownership and Development
+
+      **IP Ownership and Development**
 
       Intellectual property (IP) is a big problem in traditional science: from
       being stuck in universities or unused in biotechs, to being notoriously
@@ -127,16 +130,19 @@ steps:
       also play an important role in DeSci by allowing individuals to prove
       their experience and credentials linked to their Ethereum address.
 
-      Replication and Reproducibility 
+
+      **Replication and Reproducibility **
 
       Reproducibility and replicability are the foundations of quality
       scientific discovery.
 
-      Reproducible results can be achieved multiple times in a row by the same
+
+      - Reproducible results can be achieved multiple times in a row by the same
       team using the same methodology.
 
-      Replicable results can be achieved by a different group using the same
+      - Replicable results can be achieved by a different group using the same
       experimental setup.
+
 
       New Web3-native tools can ensure that reproducibility and replicability
       are the basis of discovery. We can weave quality science into the
