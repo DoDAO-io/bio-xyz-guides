@@ -1,7 +1,7 @@
 categories:
   - general
 content: Decentralization, Benefits & Drawbacks of Decentralization,
-created: '2023-02-11T09:08:38.029Z'
+created: '2023-02-11T09:09:24.492Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -53,6 +53,7 @@ steps:
 
       **Benefits of Decentralization**
 
+
       There are several benefits to decentralization, including providing a
       trustless environment, improving data reconciliation, reducing points of
       weakness, and optimizing incentive distribution:
@@ -82,6 +83,7 @@ steps:
 
 
       **Drawbacks of Decentralization**
+
 
       Despite the described benefits, there are a few downsides to
       decentralization:
