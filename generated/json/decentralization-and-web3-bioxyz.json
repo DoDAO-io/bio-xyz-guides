@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-11T09:09:24.492Z",
+  "created": "2023-02-11T09:20:36.606Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -60,8 +60,61 @@
     },
     {
       "content": "",
-      "name": "Step 4",
-      "stepItems": [],
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "6a4d0b7b"
+          ],
+          "choices": [
+            {
+              "content": "A. Improved data reconciliation and reduced points of weakness ",
+              "key": "a7f60df6"
+            },
+            {
+              "content": "B. Increased trust and better service",
+              "key": "25697e2f"
+            },
+            {
+              "content": "C. More efficient resource and talent distribution",
+              "key": "29100672"
+            },
+            {
+              "content": "  D. All of the above",
+              "key": "6a4d0b7b"
+            }
+          ],
+          "content": "What are the benefits of decentralization?",
+          "type": "SingleChoice",
+          "uuid": "4ef7f722-b013-4a67-803f-ed3586aab8c4"
+        },
+        {
+          "answerKeys": [
+            "c9a7366c"
+          ],
+          "choices": [
+            {
+              "content": "A. Duplication of effort and confusion if there is not a clear leader or decision maker",
+              "key": "c9a7366c"
+            },
+            {
+              "content": "B. Increased trust and better service",
+              "key": "a5e3fc32"
+            },
+            {
+              "content": "C. More efficient resource and talent distribution",
+              "key": "c907b226"
+            },
+            {
+              "content": "D. None of the above ",
+              "key": "f67e3527"
+            }
+          ],
+          "content": "What are the drawbacks of decentralization?",
+          "type": "SingleChoice",
+          "uuid": "84723ed7-4d8a-49ab-a16c-3fe93cef6a5b"
+        }
+      ],
       "uuid": "bff21751-1413-4cfd-81a9-35ac48e5dc1c"
     }
   ],
