@@ -1,6 +1,6 @@
 categories: []
 content: 'The Decentralized Science (DeSci) movement aims to use the Web3 '
-created: '2023-02-11T19:52:12.505Z'
+created: '2023-02-11T20:26:19.607Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -21,7 +21,10 @@ steps:
       new and unconventional ideas can flourish by decentralizing access to
       funding, scientific tools, and communication channels.
 
+
       **How DeSci Improves Science**
+
+      ![](https://3673419478-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F8ODWngazoi1LKETTEcVa%2Fuploads%2FhGJF0g2iF96YQjj39l9p%2FDeSci%20vs%20Traditional%20Science.png?alt=media&token=b5c3bb9b-ae10-419b-ab71-5f8451ccf0d5)
 
 
 
@@ -194,4 +197,4 @@ steps:
     uuid: 94754aab-114c-4b2c-96dd-7a9b7be4cc1d
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Guide_Name/undraw_medical_research_qg4d.png
-uuid: c9c06c68-ca42-4734-a713-5feaff8297b9
+uuid: decentralized-science-bioxyz
