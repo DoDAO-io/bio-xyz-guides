@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-11T09:42:28.847Z",
+  "created": "2023-02-11T19:40:13.018Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -122,6 +122,35 @@
       "name": "Blockchain",
       "stepItems": [],
       "uuid": "c8083db5-c8d8-47d5-8a3b-31fdb87120ab"
+    },
+    {
+      "content": "",
+      "name": "Evaluation",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "675895f7"
+          ],
+          "choices": [
+            {
+              "content": "A distributed ledger of transactions",
+              "key": "675895f7"
+            },
+            {
+              "content": "A regular database that is constantly growing",
+              "key": "a202ae24"
+            },
+            {
+              "content": "A cryptocurrency network",
+              "key": "15a410a5"
+            }
+          ],
+          "content": "What is a blockchain?",
+          "type": "SingleChoice",
+          "uuid": "6401393d-f47d-4bd4-ab7c-d9c6bef14c38"
+        }
+      ],
+      "uuid": "0e756598-9743-4998-942f-f8d976b18a1b"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Decentralization_and_Web3/decentralizaton_and_web3.png",
