@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-11T19:48:29.156Z",
+  "created": "2023-02-11T20:29:29.026Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -14,7 +14,7 @@
   "showIncorrectOnCompletion": true,
   "steps": [
     {
-      "content": "Welcome to the bio.xyz BioDAO bible, a working lexicon and knowledge base for all of the relevant terms and concepts that you will need to understand to successfully build in decentralized science! ",
+      "content": "Welcome to the bio.xyz BioDAO bible, a working lexicon and knowledge base for all of the relevant terms and concepts that you will need to understand to successfully build in decentralized science! ![](https://cdn.discordapp.com/attachments/983724357186629692/1073707473715855380/Screenshot_2023-02-10_at_21.47.45.png)",
       "name": "Introduction",
       "stepItems": [],
       "uuid": "1652ae5b-1bd7-4381-984c-a6d6cfc685f9"
