@@ -1,7 +1,7 @@
 categories:
   - general
 content: Decentralization, Benefits & Drawbacks of Decentralization,
-created: '2023-02-11T19:40:13.018Z'
+created: '2023-02-11T19:48:29.156Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: course
@@ -197,6 +197,32 @@ steps:
         content: What is a blockchain?
         type: SingleChoice
         uuid: 6401393d-f47d-4bd4-ab7c-d9c6bef14c38
+      - answerKeys:
+          - c5c33a3d
+        choices:
+          - content: A programming language
+            key: fe85f490
+          - content: A decentralized blockchain
+            key: c5c33a3d
+          - content: ' A cryptocurrency'
+            key: 6c124d5e
+        content: What is Ethereum?
+        type: SingleChoice
+        uuid: 3e5f6fa4-19f8-4ce3-9530-eb7b68570aed
+      - answerKeys:
+          - ba4d0053
+        choices:
+          - content: A new version of the internet based on decentralization
+            key: ba4d0053
+          - content: A new concept for data security
+            key: 0ad34a12
+          - content: A new form of cryptocurrency
+            key: 9e97b774
+          - content: A venture capitalist project
+            key: f7f138c4
+        content: What is Web3?
+        type: SingleChoice
+        uuid: ee8c60a1-5ae3-48be-bbdf-50ac3bc21ede
     uuid: 0e756598-9743-4998-942f-f8d976b18a1b
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Decentralization_and_Web3/decentralizaton_and_web3.png
