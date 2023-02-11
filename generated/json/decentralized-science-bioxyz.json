@@ -1,0 +1,71 @@
+{
+  "categories": [],
+  "content": "The Decentralized Science (DeSci) movement aims to use the Web3 ",
+  "created": "2023-02-11T19:52:12.505Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "course",
+  "key": "decentralized-science-bioxyz",
+  "name": "Decentralized Science",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "The Decentralized Science (DeSci) movement aims to use the Web3 stack to build public infrastructure that fairly and equitably funds, creates, reviews, credits, stores, and disseminates scientific knowledge. DeSci works off the idea that scientific knowledge should be accessible to everyone and that the process of scientific research should be transparent. DeSci is creating a more decentralized and distributed scientific research model, making it more resistant to censorship and control by central authorities. DeSci hopes to create an environment where new and unconventional ideas can flourish by decentralizing access to funding, scientific tools, and communication channels.\n**How DeSci Improves Science**\n\n\n**Funding **\n\nThe current standard model for funding science is that individuals or groups of scientists make written applications to a funding agency. A small panel of trusted individuals score the applications and then interview candidates before awarding funds to a small portion of applicants. Aside from creating bottlenecks that often leads to a pronounced time between applying for and receiving a grant, this model is known to be highly vulnerable to the biases, self-interests and politics of the review panel.\nStudies have shown that grant review panels do a poor job of selecting high-quality proposals as the same proposals given to different panels have wildly different outcomes. As funding has become more scarce, it has concentrated into a smaller pool of more senior researchers with more intellectually conservative projects. The effect has created a hyper-competitive funding landscape, entrenching perverse incentives and stifling innovation.\nWeb3 has the potential to disrupt this broken funding model by experimenting with different incentive models developed by DAOs and Web3 broadly. Retroactive public goods funding, quadratic funding, DAO governance and tokenized incentive structures are some of the Web3 tools that could revolutionize science funding.\n**Publishing**\n\nScience publishing is famously problematic because it is managed by publishing companies that rely upon free labor from scientists, reviewers, and editors to generate the papers but then charge exorbitant publishing fees. The public, who have already paid for the work and the publication costs through taxation, can not access that same work without paying the publisher again, unless they are affiliated with an institution (i.e. university) with an enterprise subscription. The total fees for publishing individual science papers are often five figures ($USD), undermining the whole concept of scientific knowledge as a public good while generating enormous profits for a small group of publishers.\nFree and open-access platforms exist in the form of preprint servers, such as ArXiv, bioRxiv, and medRxiv. However, these platforms lack quality control, anti-sybil mechanisms, and generally do not track article-level metrics, and as a result are only used to publicize work before submission to a traditional publisher. SciHub also makes published papers free to access, but not legally, and only after the publishers have already taken their payment and wrapped the work in strict copyright legislation. This leaves a critical gap for accessible science papers and data with an embedded legitimacy mechanism and incentive model. The tools for building such a system exist in Web3.\n**Data Storage**\nScientific data can be made vastly more accessible using Web3 patterns, and distributed storage enables research to survive cataclysmic events.\nThe starting point must be a system accessible by any decentralized identity holding the proper verifiable credentials. This allows sensitive data to be securely replicated by trusted parties, enabling redundancy and censorship resistance, reproduction of results, and even the ability for multiple parties to collaborate and add new data to the dataset. Confidential computing methods like compute-to-data provide alternative access mechanisms to raw data replication, creating Trusted Research Environments for the most sensitive data. Trusted Research Environments have been cited by the NHS as a future-facing solution to data privacy and collaboration by creating an ecosystem where researchers can securely work with data on-site using standardized environments for sharing code and practices.\nFlexible Web3 data solutions support the scenarios above and provide the foundation for truly Open Science, where researchers can create public goods without access permissions or fees. Web3 public data solutions such as IPFS, Arweave and Filecoin are optimized for decentralization. dClimate, for example, provides universal access to climate and weather data, including from weather stations and predictive climate models.\nIP Ownership and Development\nIntellectual property (IP) is a big problem in traditional science: from being stuck in universities or unused in biotechs, to being notoriously hard to value. However, ownership of digital assets (such as scientific data or articles) is something Web3 does exceptionally well using non-fungible tokens (NFTs).\nIn the same way that NFTs can pass revenue for future transactions back to the original creator, you can establish transparent value attribution chains to reward researchers, governing bodies (like DAOs), or even the subjects whose data is collected.\nIP-NFTs can also function as a key to a decentralized data repository of the research experiments being undertaken, and plug into NFT and DeFi financialization (from fractionalization to lending pools and value appraisal). The fractionalization of IP-NFTs will ensure they are highly liquid and tradeable, even by individual investors. IP-NFTs also allow natively on-chain entities such as DAOs like VitaDAO to conduct research directly on-chain. The advent of non-transferable \"soulbound\" tokens may also play an important role in DeSci by allowing individuals to prove their experience and credentials linked to their Ethereum address.\nReplication and Reproducibility \nReproducibility and replicability are the foundations of quality scientific discovery.\nReproducible results can be achieved multiple times in a row by the same team using the same methodology.\nReplicable results can be achieved by a different group using the same experimental setup.\nNew Web3-native tools can ensure that reproducibility and replicability are the basis of discovery. We can weave quality science into the technological fabric of academia. Web3 offers the ability to create attestations for each analysis component: the raw data, the computational engine, and the application result. The beauty of consensus systems is that when a trusted network is created for maintaining these components, each network participant can be responsible for reproducing the calculation and validating each result.\nOrganizational Design\nDecentralized science has enabled and brought about the emergence of novel organizational structures, such as biotech DAOs.\n\nThe first biotech DAO, VitaDAO, was birthed by Molecule with the goal of funding early-stage preclinical drug development in the context of longevity. VitaDAO uses Molecule's IP-NFT framework to own, license, and transact in intellectual property generated from the projects it supports. This allows the DAO to fund and later commercialize early-stage research out of academia and capture value for the large, decentralized communities of researchers and patients. The key innovation of biotech DAOs is their lack of gate-keeping and the use of technology to mediate decisions by large communities. This enables them to address a problem that has so far been unsolvable given the lack of incentive mechanisms for widespread collaboration in biotech.",
+      "name": "Decentralized science (DeSci)",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "624a8273-8b7c-450a-9e97-63c168e9e218"
+        }
+      ],
+      "uuid": "d9c2229f-82c0-4731-9be7-1816b7d1e983"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "5786d545-c7fb-40d9-a6e1-5363172b3ced"
+        },
+        {
+          "answerKeys": [
+            "dog_or_cat",
+            "only_dog",
+            "only_cat"
+          ],
+          "choices": [
+            {
+              "content": "Dog And Cat",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "Dog Or Cat",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "Only Dog",
+              "key": "only_dog"
+            },
+            {
+              "content": "Only Cat",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Dog or a Cat, Do or a Cat, Dog or a Cat",
+          "type": "MultipleChoice",
+          "uuid": "35a67ad6-bce1-425f-b99a-8caa1a284c89"
+        }
+      ],
+      "uuid": "94754aab-114c-4b2c-96dd-7a9b7be4cc1d"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Guide_Name/undraw_medical_research_qg4d.png",
+  "uuid": "c9c06c68-ca42-4734-a713-5feaff8297b9"
+}
