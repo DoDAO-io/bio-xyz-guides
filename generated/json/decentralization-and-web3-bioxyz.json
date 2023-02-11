@@ -3,7 +3,7 @@
     "general"
   ],
   "content": "Decentralization, Benefits & Drawbacks of Decentralization,",
-  "created": "2023-02-11T09:20:36.606Z",
+  "created": "2023-02-11T09:42:28.847Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -116,6 +116,12 @@
         }
       ],
       "uuid": "bff21751-1413-4cfd-81a9-35ac48e5dc1c"
+    },
+    {
+      "content": "A blockchain is a distributed ledger of transactions, paid for with cryptocurrency. It is a constantly growing database as blocks are finalized with a new set of recordings. Each block contains a cryptographic hash of the previous block, a timestamp, and all new transaction data since the previous block.\nFor example, Bitcoin nodes use the blockchain to differentiate legitimate Bitcoin transactions from attempts to double-spend coins that have already been spent elsewhere. \n\n**Ethereum**\n\nEthereum is a decentralized blockchain that runs smart contracts: applications that run exactly as programmed without any possibility of fraud or third party interference.\nEthereum is used as a \"world computer\" whereby developers can create decentralized applications (dapps) and run them on the Ethereum network. This is possible because Ethereum has a native programming language, which allows developers to create their own smart contracts and dapps.\nThe Ethereum network is powered by ether, a cryptocurrency spent to run transactions and dapps on the network. When a user wants to run a transaction or dapp, they must first pay a gas fee in ether. The fee goes to the miners who validate and execute the transactions and dapps on the network, ensuring its security.\n\n**Web3**\n\nWeb3 is an idea for a new version of the internet which would be more decentralized than the current version. The term was coined in 2014 by Gavin Wood, and has gained interest from cryptocurrency enthusiasts, large tech companies, and venture capitalists in 2021. Some argue that Web3 would provide increased data security, privacy, and individual sovereignty.\nWeb3 refers to the next generation of the web's infrastructure, which is based on decentralization and incorporates blockchain technologies as cryptocurrencies and non-fungible tokens (NFTs). The intention is to make the web more secure and allow users to have more control over their data. Technology scholars have argued that Web3 will likely run in tandem with existing web sites, with the latter adopting Web3 technologies in order to stay relevant.",
+      "name": "Blockchain",
+      "stepItems": [],
+      "uuid": "c8083db5-c8d8-47d5-8a3b-31fdb87120ab"
     }
   ],
   "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/bioxyz-eth-1/Guide/Decentralization_and_Web3/decentralizaton_and_web3.png",
